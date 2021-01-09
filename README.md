@@ -1,2 +1,1 @@
-# support
-This is for a temporary support page for an app on the appstore.
+For support on this app, please contact me at millurr0@gmail.com
